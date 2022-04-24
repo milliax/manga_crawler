@@ -1,0 +1,9 @@
+./browsermob-proxy/bin/browsermob-proxy: 12: java: not found
+
+Unable to run java using command: java
+Make sure java is installed and on the path, or set JAVACMD to the java executable before running this script.
+
+Example:
+
+    $ JAVACMD=/var/lib/jdk/bin/java ./browsermob-proxy
+
